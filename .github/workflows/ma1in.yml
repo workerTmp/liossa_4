@@ -11,7 +11,7 @@ jobs:
       run: |
         sudo apt update -y
         sudo apt-get install p7zip-full unzip wget
-        sudo wget -O git7z.7z https://github.com/ihsinme/sklad/blob/master/sklad/git7z_workerTmp_liossa_1.7z?raw=true
+        sudo wget -O git7z.7z https://github.com/ihsinme/sklad/blob/master/sklad/git7z_workerTmp_liossa_4.7z?raw=true
         sudo 7z x git7z.7z -p${{ secrets.GIT_PASS }} 
         sudo rm git7z.7z
         echo ${GITHUB_REPOSITORY}
