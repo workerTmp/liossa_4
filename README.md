@@ -1,3 +1,7 @@
 [![Fuzzing Status Local](docs/medovecot1/notFind.svg)](https://github.com/)
+[![Fuzzing Status Local](docs/medovecot1/fuzz_test_imap_bodystructure1.svg)](https://github.com/)
+[![Fuzzing Status Local](docs/medovecot1/fuzz_test_imap_bodystructure2.svg)](https://github.com/)
+[![Fuzzing Status Local](docs/medovecot1/fuzz_test_imap_envelope2.svg)](https://github.com/)
+[![Fuzzing Status Local](docs/medovecot1/fuzz_test_imap_envelope1.svg)](https://github.com/)
 [![Fuzzing Status Local](docs/mesquid/notFind.svg)](https://github.com/)
 [![Fuzzing Status Local](docs/mesquid/fuzz_ftest.svg)](https://github.com/)

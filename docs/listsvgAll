@@ -1,3 +1,7 @@
 docs/medovecot1/notFind.svg
+docs/medovecot1/fuzz_test_imap_bodystructure1.svg
+docs/medovecot1/fuzz_test_imap_bodystructure2.svg
+docs/medovecot1/fuzz_test_imap_envelope2.svg
+docs/medovecot1/fuzz_test_imap_envelope1.svg
 docs/mesquid/notFind.svg
 docs/mesquid/fuzz_ftest.svg
