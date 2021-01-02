@@ -1,7 +1,7 @@
-'-1': 'null'
+'-1':
+- medovecot1*fuzz_test_imap_util
 '0': 'null'
 '1':
-- medovecot1*fuzz_test_imap_util
 - medovecot1*fuzz_test_imap_quote
 - medovecot1*fuzz_message_parser
 - medovecot1*fuzz_test_imap_envelope1
