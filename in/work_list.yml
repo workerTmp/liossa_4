@@ -3,12 +3,12 @@
 - medovecot1*fuzz_test_imap_quote
 - medovecot1*fuzz_test_imap_util
 '0': 'null'
-'1': 'null'
+'1':
+- medovecot1*fuzz_test_imap_bodystructure2
 '2': 'null'
 '3': 'null'
 '4': 'null'
 '5':
-- medovecot1*fuzz_test_imap_bodystructure2
 - medovecot1*fuzz_test_imap_bodystructure1
 - medovecot1*fuzz_test_imap_envelope2
 - medovecot1*fuzz_test_imap_envelope1
