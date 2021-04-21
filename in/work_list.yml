@@ -6,12 +6,12 @@
 '0': 'null'
 '1': 'null'
 '2':
-- medovecot1*fuzz_test_imap_bodystructure2
 - medovecot1*fuzz_test_imap_bodystructure1
 - medovecot1*fuzz_test_imap_envelope2
 - medovecot1*fuzz_test_imap_envelope1
 - medovecot1*fuzz_test_imap_match
-'3': 'null'
+'3':
+- medovecot1*fuzz_test_imap_bodystructure2
 '4': 'null'
 '5': 'null'
 '6':
