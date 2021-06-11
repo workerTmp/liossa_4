@@ -9,10 +9,10 @@
 - medovecot1*fuzz_test_imap_bodystructure1
 - medovecot1*fuzz_test_imap_parser
 - medovecot1*fuzz_test_imap_match
+- medovecot1*fuzz_test_imap_envelope1
 '2': 'null'
 '3': 'null'
 '4': 'null'
-'5':
-- medovecot1*fuzz_test_imap_envelope1
+'5': 'null'
 '6':
 - medovecot1
